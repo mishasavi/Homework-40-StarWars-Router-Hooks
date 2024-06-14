@@ -15,7 +15,7 @@ export const friends = [
     {pic: friend6, name: 'Princess Leia', path: 'peoples/5'},
     {pic: friend5, name: 'Han Solo', path: 'peoples/14'},
     {pic: friend4, name: 'Wookie', path: 'peoples/13'},
-    {pic: friend3, name: 'Wicket W. Warrick', path: 'peoples/path: 30'},
+    {pic: friend3, name: 'Wicket W. Warrick', path: 'peoples/30'},
     {pic: friend2, name: 'C-3PO', path: 'peoples/2'},
     {pic: friend1, name: 'R2-D2', path: 'peoples/3'}
     ]
